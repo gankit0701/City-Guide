@@ -1,0 +1,878 @@
+[
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hotel_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\hotel_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_forget_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\forget_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_slides_layout.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\slides_layout.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\back_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_password_updated_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\password_updated_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_field_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\field_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_field_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\field_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shop_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\shop_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_shop_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\shop_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hotel_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\hotel_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_skip_button.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\skip_button.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_make_selection.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_make_selection.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_logo_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_logo_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_home_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\home_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card1.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\drawable\\card1.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_close_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\close_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_close_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\close_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_email_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\email_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_full_name_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\full_name_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_full_name_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\full_name_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_school_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\school_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_phone_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\phone_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_restaurant_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\restaurant_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_close_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\close_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_logo_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_logo_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\close_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_field_username_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\field_username_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_phone_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\phone_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_skip_button.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\skip_button.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_skip_button.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\skip_button.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_new_password_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\new_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up3rd_class.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_sign_up3rd_class.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_side_menu_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\side_menu_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\search_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_add_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\add_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_shop_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\shop_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_login.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_retailer_login.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hotel_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\hotel_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_side_menu_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\side_menu_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_school_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\school_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_email_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\email_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_missing_place_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\missing_place_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_email_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\email_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_email_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\email_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\add_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up2nd_class.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_sign_up2nd_class.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_field_username_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\field_username_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_phone_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_phone_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_back_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\back_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_logo_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_logo_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_all_categories_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\all_categories_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_home_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_new_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\new_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget_password.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_missing_place_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\missing_place_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\add_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_dashboard.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_user_dashboard.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_logo_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_logo_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\search_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mobile_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\mobile_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mobile_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\mobile_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_forget_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\forget_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_skip_button.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\skip_button.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_categories.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_all_categories.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_next_button.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\next_button.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_full_name_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\full_name_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_side_menu_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\side_menu_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_missing_place_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\missing_place_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_phone_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\phone_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_category_card_image.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\category_card_image.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hotel_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\hotel_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mobile_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\mobile_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mobile_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\mobile_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_restaurant_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\restaurant_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_all_categories_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\all_categories_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_phone_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_next_button.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\next_button.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_school_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\school_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_4.jpg.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\drawable\\image_4.jpg"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_side_menu_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\side_menu_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next_button.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\next_button.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_next_button.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\next_button.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_home_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_all_categories_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\all_categories_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hotel_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\hotel_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_password_updated_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\password_updated_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_back_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\back_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_missing_place_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\missing_place_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_new_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\new_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_restaurant_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\restaurant_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_shop_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\shop_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_next_button.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\next_button.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hotel_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\hotel_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_logo_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_logo_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_featured_card_image.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\featured_card_image.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget_success.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_forget_success.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_3.jpg.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\drawable\\image_3.jpg"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_full_name_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\full_name_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_restaurant_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\restaurant_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_most_card_image.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\most_card_image.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_field_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\field_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_close_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\close_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mobile_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\mobile_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_school_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\school_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_field_username_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\field_username_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_o_t_p_verify.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_o_t_p_verify.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_add_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_field_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\field_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_missing_place_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\missing_place_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_skip_button.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\skip_button.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_missing_place_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\missing_place_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim_side_anim.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\anim\\side_anim.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_close_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\close_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_forget_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\forget_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\back_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_password_updated_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\password_updated_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_school_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\school_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black_border.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\drawable\\black_border.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mumbai.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\drawable\\mumbai.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_restaurant_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\restaurant_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_new_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\new_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_field_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\field_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_hotel_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\hotel_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_password_updated_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\password_updated_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_all_categories_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\all_categories_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_shop_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\shop_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_set_new_password.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_set_new_password.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_field_username_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\field_username_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_field_username_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\field_username_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\add_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_password_updated_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\password_updated_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_skip_button.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\skip_button.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_header.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\menu_header.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_full_name_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\full_name_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_email_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\email_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_skip_button.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\skip_button.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_2.jpg.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\drawable\\image_2.jpg"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_school_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\school_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shop_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\shop_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_logo_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_logo_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\search_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_5.jpg.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\drawable\\image_5.jpg"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_side_menu_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\side_menu_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_missing_place_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\missing_place_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_phone_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\phone_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_field_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\field_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_forget_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\forget_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_new_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\new_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_school_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\school_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_full_name_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\full_name_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_restaurant_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\restaurant_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_search_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\search_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_forget_password_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\forget_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_back_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\back_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\add_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mobile_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\mobile_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_field_username_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\field_username_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_logo_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_logo_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_all_categories_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\all_categories_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\back_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sider_image.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_sider_image.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_side_menu_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\side_menu_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_restaurant_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\restaurant_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_email_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\email_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_forget_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\forget_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_password_updated_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\password_updated_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_next_button.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\next_button.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_email_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\email_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_1.jpg.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\drawable\\image_1.jpg"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_new_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\new_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card2.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\drawable\\card2.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_field_password_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\field_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_close_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\close_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_password_updated_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\password_updated_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_mobile_icon.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\mobile_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\back_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_next_button.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\next_button.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shop_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\shop_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_all_categories_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\all_categories_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_new_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\new_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_full_name_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\full_name_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_sign_up.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_retailer_sign_up.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_start.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\layout\\activity_retailer_start.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_forget_password_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\forget_password_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_field_username_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\field_username_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_side_menu_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\side_menu_icon.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\font_muli_extrabold.xml.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\src\\main\\res\\font\\muli_extrabold.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\CityGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_all_categories_icon.png.flat",
+        "source": "E:\\Android Studio\\CityGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\all_categories_icon.png"
+    }
+]

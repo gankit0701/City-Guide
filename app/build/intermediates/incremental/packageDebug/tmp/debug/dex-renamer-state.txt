@@ -1,0 +1,4 @@
+#Sat May 30 01:39:10 IST 2020
+base.0=E\:\\Android Studio\\CityGuide\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

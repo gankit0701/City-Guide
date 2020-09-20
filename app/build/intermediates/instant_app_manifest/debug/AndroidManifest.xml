@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cityguide"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="29" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.cityguide.Common.LoginSignup.ForgetSuccess" />
+        <activity android:name="com.example.cityguide.Common.LoginSignup.SetNewPassword" />
+        <activity android:name="com.example.cityguide.Common.LoginSignup.MakeSelection" />
+        <activity android:name="com.example.cityguide.Common.LoginSignup.ForgetPassword" />
+        <activity android:name="com.example.cityguide.Common.LoginSignup.OTPVerify" />
+        <activity android:name="com.example.cityguide.Common.LoginSignup.SignUp3rdClass" />
+        <activity android:name="com.example.cityguide.Common.LoginSignup.SignUp2ndClass" />
+        <activity android:name="com.example.cityguide.Common.LoginSignup.SignUp" />
+        <activity android:name="com.example.cityguide.Common.LoginSignup.Login" />
+        <activity android:name="com.example.cityguide.Common.LoginSignup.RetailerStart" />
+        <activity android:name="com.example.cityguide.User.AllCategories" />
+        <activity android:name="com.example.cityguide.User.UserDashboard" />
+        <activity android:name="com.example.cityguide.Common.SiderImage" />
+        <activity android:name="com.example.cityguide.Common.SplashScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Common.LoginSignup.OTPVerify">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="30dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/close_icon"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Co\nde"
+            android:textSize="100sp"
+            android:layout_gravity="center"
+            android:textAllCaps="true"
+            android:includeFontPadding="false"
+            android:textAlignment="center"
+            android:fontFamily="@font/muli_extrabold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Verification"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:layout_gravity="center"
+            android:textAllCaps="true"
+            android:fontFamily="@font/muli_extrabold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enter One Time Password sent on \n+91 8291079071"
+            android:textSize="16sp"
+            android:layout_marginTop="50dp"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:textAllCaps="true" />
+
+        <com.chaos.view.PinView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:itemCount="6"
+            app:itemWidth="50dp"
+            app:itemHeight="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            app:lineColor="@color/colorAccent"
+            android:itemBackground="@color/colorPrimary"
+            style="@style/PinWidget.PinView"
+            android:inputType="number"
+            android:cursorVisible="true"
+            app:hideLineWhenFilled="true"
+            app:itemRadius="5dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Verify Code"
+            android:onClick="verifyClick"
+            android:layout_marginTop="30dp"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
